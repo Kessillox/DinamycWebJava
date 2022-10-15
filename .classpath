@@ -14,5 +14,10 @@
 	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
 	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
 	<classpathentry kind="lib" path="/Users/kessi/Downloads/lombok.jar"/>
+	<classpathentry kind="lib" path="/Users/kessi/Downloads/jstl-impl.jar"/>
+	<classpathentry kind="lib" path="/Users/kessi/Downloads/jstl_el.jar"/>
+	<classpathentry kind="lib" path="src/main/webapp/WEB-INF/lib/jstl.jar"/>
+	<classpathentry kind="lib" path="/Users/kessi/Downloads/javax.servlet.jsp.jstl-1.2.1.jar"/>
+	<classpathentry kind="lib" path="/Users/kessi/Downloads/jstl-standard.jar"/>
 	<classpathentry kind="output" path="build/classes"/>
 </classpath>
