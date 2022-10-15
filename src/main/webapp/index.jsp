@@ -28,6 +28,7 @@
 
 <%--Suma de dos numeros--%>
 <%int num1 = 10; int num2 = 20;%>
+<%=num1+"+"+num2+" = "%>
 <%=num1+num2%><br>
 <%--Resta de dos numeros--%>
 <%=num1-num2%><br>
